@@ -40,16 +40,16 @@ I have my mix on CH4 using the two top right 3 position switches.
 
 ## Available Modes
 
-Mode 			|	Purpose
----------------------------------------------------------------------------------
-Boot			|	Red blinking lights, if there is no RC signal
-Navigation		|	Red/Green position lights and white strobe
-Landing 		|	Red/Green position lights, large blue flashing lights
-Minimal  		|   Red/Green position lights only on the tips
-Police  		| 	Red/Blue flashing police lights (Cop in the sky)
-Disco  			|   Disco mode
-Blue  			|   Bottom red/green position lights, Top blue and white
-Off  			|   All LED's off
+|Mode|Purpose|
+|---:|:---:|
+|Boot|Red blinking lights, if there is no RC signal|
+|Navigation|Red/Green position lights and white strobe|
+|Landing|Red/Green position lights, large blue flashing lights|
+|Minimal|Red/Green position lights only on the tips|
+|Police|Red/Blue flashing police lights (Cop in the sky)|
+|Disco|Disco mode|
+|Blue|Bottom red/green position lights, Top blue and white|
+|Off|All LED's off|
 
 
 ## License
