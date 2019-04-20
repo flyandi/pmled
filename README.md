@@ -1,3 +1,7 @@
+# Notice
+
+I started a new project with much more features: http://github.com/flyandi/bitsyled
+
 # Paramotor LED Driver Firmware
 
 This is a simple LED driver for an RC Paramotor that comes with 7 modes which can be switched using 2x 3 position switches (ex Taranis X7).
